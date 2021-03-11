@@ -9,7 +9,7 @@ This app demonstrates multiple fragments in an activity, a shared ViewModel acro
 data binding, LiveData, and the Jetpack Navigation component.
 
 # User Interface
-
+<img src="images/Start.jpg" width= 300 height= 600 > <img src="images/Flavour.jpg" width= 300 height= 600 > <img src="images/Pickup.jpg" width= 300 height= 600 > <img src="images/Summary.jpg" width= 300 height= 600 >
 
 Pre-requisites
 --------------
